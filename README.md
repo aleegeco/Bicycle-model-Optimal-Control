@@ -7,4 +7,4 @@ The related task description can be read [here](http://github.com/aleegeco/Bicyc
 The report where we discuss in detail all the results can be read [here](http://github.com/aleegeco/Bicycle-model-Optimal-Control/blob/main/Report_Optimal_Control_Bicycle_Model_CecconiBugoFrangiamone.pdf)
 
 ## Lane Change Maneuver ##
-We have defined a linear transition between two supposed equilibria to change the car position simulating a lane change.
+We have defined a linear transition between two supposed equilibria to change the car position exploiting the Differential Dynamic Programming.
