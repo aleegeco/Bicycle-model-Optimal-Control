@@ -10,7 +10,8 @@ The discretized dynamic bicycle model used for this project is ill-defined for l
 As a consequence, all the tasks are initiliazed assuming that our car is moving. It is not a strong assumption even in the case of the skidpad if we are not considering particular racing cases. 
 
 ## Lane Change Maneuver ##
-In this task, we defined a linear transition between two supposed equilibria simulating an ideal change of lane in an highway. In order to do that the implemented algorithm is the Differential Dynamic Programming. Here some plots of the results
+In this task, we defined a linear transition between two supposed equilibria simulating an ideal change of lane in an highway. In order to do that the implemented algorithm is the Differential Dynamic Programming. Here some plots of the results:
+
 <img src="Plot/Lane%20change%20maneuver/lane_change.jpg" width="550"> <img src="Plot/Lane%20change%20maneuver/inputs.jpg" width="550">
 
 ## Skidpad ##
