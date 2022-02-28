@@ -17,4 +17,6 @@ In this task, we defined a linear transition between two supposed equilibria sim
 Here we were asked to perform a skidpad track layout by imposing as reference a the middle-line of the skidpad.
 In our formulation we did not introduce as state constraints the track layout, then we we have chosen a conservative approach for what concern the trajectory tracking by being as close as possible to the reference centerline. The main drawback is the velocity obtained, since we imposed a time-constraints instead using a velocity profile generated reference trajectory.
 
-<img src="Plot/Skidpad/skidpad.jpg" width="550">
+<img src="Plot/Skidpad/skidpad.jpg" width="550"> <img src="Plot/Skidpad/skidpad_vels.jpg" width="550"> <img src="Plot/Skidpad/skidpad_inputs.jpg" width="550">
+
+
